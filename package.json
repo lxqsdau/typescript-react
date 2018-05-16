@@ -1,0 +1,30 @@
+{
+  "name": "typescript-react",
+  "author": "lxq",
+  "version": "1.0.0",
+  "description": "An awesome project",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lxqsdau/typescript-react.git"
+  },
+  "scripts": {
+    "start": "nowa server",
+    "build": "nowa build"
+  },
+  "homepage": "",
+  "license": "MIT",
+  "dependencies": {
+    "mobx": "^4.2.0",
+    "mobx-react": "^5.0.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  },
+  "devDependencies": {
+    "@types/react": "^16.3.11",
+    "@types/react-dom": "^16.0.5",
+    "nowa": "^1.2.1",
+    "nowa-server": "^1.19.0",
+    "typescript": "^2.8.1",
+    "webpack-bundle-analyzer": "^2.11.1"
+  }
+}
